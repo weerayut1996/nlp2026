@@ -1,5 +1,6 @@
-# Python bytecode
-.pyc
-__pycache__/
-# Virtual Environment
+# .gitignore
 .venv_comp/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
