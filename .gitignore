@@ -1,0 +1,23 @@
+# Python Environment
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+
+# VS Code Settings
+.vscode/
+
+# NLP Data & Models (ยกเว้นไฟล์ขนาดใหญ่)
+*.pth
+*.h5
+*.bin
+*.model
+*.pkl
+datasets/
+data/
+
+# OS Files
+.DS_Store
+Thumbs.db
